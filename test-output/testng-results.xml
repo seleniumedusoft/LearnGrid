@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Grid test suite" duration-ms="36362" started-at="2016-04-23T19:55:25Z" finished-at="2016-04-23T19:56:02Z">
+    <groups>
+    </groups>
+    <test name="Regression 1" duration-ms="36362" started-at="2016-04-23T19:55:25Z" finished-at="2016-04-23T19:56:02Z">
+      <class name="single.LearnGrid">
+        <test-method status="PASS" signature="singleNodeFFExample()[pri:0, instance:single.LearnGrid@e6e9c3]" name="singleNodeFFExample" duration-ms="36248" started-at="2016-04-24T01:25:25Z" finished-at="2016-04-24T01:26:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleNodeFFExample -->
+        <test-method status="PASS" signature="singleNodeChromeExample()[pri:0, instance:single.LearnGrid@e6e9c3]" name="singleNodeChromeExample" duration-ms="24203" started-at="2016-04-24T01:25:25Z" finished-at="2016-04-24T01:25:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleNodeChromeExample -->
+      </class> <!-- single.LearnGrid -->
+    </test> <!-- Regression 1 -->
+  </suite> <!-- Grid test suite -->
+</testng-results>
